@@ -1,0 +1,13 @@
+.: COMMIT 1 - 240622 :.
+
+- Commit inicialization
+
+.: COMMIT 2 - 240622 :.
+
+- Created a new project mysite.
+
+
+
+Notes: 
+
+- Documentation: https://docs.djangoproject.com/en/4.0/intro/tutorial01/
